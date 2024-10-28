@@ -1,2 +1,3 @@
-# PyQt5-toggle-checkbox
-This is small graphical-user-interface with PyQt5 library that contain toggle-type checkbox as components
+# PyQt5 Switch Widget
+
+This project include custom Switch Component for PyQt5 application.
